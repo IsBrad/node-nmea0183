@@ -1,0 +1,30 @@
+{
+  "name": "node-nmea0183",
+  "version": "0.1.0",
+  "description": "Node library for parsing data from a GPS (NMEA-0183). Specifically tested and used with GY-NEO6MV2",
+  "main": "nmea.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IsBrad/node-nmea0183.git"
+  },
+  "keywords": [
+    "nmea-0183",
+    "nmea",
+    "0183",
+    "ublox",
+    "serial",
+    "serialport",
+    "uart",
+    "gps",
+    "reciever"
+  ],
+  "author": "Brad Turner",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/IsBrad/node-nmea0183/issues"
+  },
+  "homepage": "https://github.com/IsBrad/node-nmea0183"
+}
